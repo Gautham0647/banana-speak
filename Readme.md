@@ -5,7 +5,7 @@ There exists a language of minions, banana language. Want to lear how to speak b
 Translate english into minionese. Minionese is the language of the Minions (sometimes called "Banana language") in the Dispicable Me series.
 
 
-Live Demo: https://wowbananatranslator.netlify.app/
+# Live Demo: https://talkbananalanguage.netlify.app/
 
 # Built with
 -HTML
